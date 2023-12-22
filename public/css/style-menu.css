@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');  /*freedoka*/
+
+.btn-menu{
+	font-family : 'Fredoka', sans-serif;
+	background-color: white;
+	width: 200px;
+	height: 65px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.btn-menu:hover{
+	font-family : 'Fredoka', sans-serif;
+	background-color: skyblue;
+	width: 200px;
+	height: 65px;
+	border-radius: 10px;
+}

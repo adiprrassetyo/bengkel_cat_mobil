@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');             /*Rubik*/
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');  /*freedoka*/
+
+.img-post-wrapper{
+	position: relative;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 7px;
+}
+.post-img{
+	position: absolute;
+	top: -100%;
+	bottom: -100%;
+	margin: auto;
+	min-height: 100%;
+	min-width: 100%;
+}
+
+.tableFixHead{ 
+	overflow: auto; 
+	height: 480px; 
+	min-height: 480px;
+}
+.tableFixHead thead th { 
+	position: sticky; 
+	top: 0; 
+	z-index: 1; 
+}
+
+.tableFixHeadKategori{ 
+	overflow: auto; 
+	height: 170px; 
+	min-height: 170px;
+}
+.tableFixHeadKategori thead th { 
+	position: sticky; 
+	top: 0; 
+	z-index: 1; 
+}
+table  { 
+	border-collapse: collapse; 
+	width: 100%; 
+}
+th     {
+	font-family               : 'Fredoka', sans-serif;
+	padding: 20px 15px;
+	text-align: left;
+	font-weight: 550;
+	font-size: 15px; 
+	background:  white; 
+}
+td{
+	border-bottom: solid 0.5px;
+	border-bottom-color: grey;
+	padding: 15px;
+	text-align: left;
+	vertical-align:middle;
+	font-weight: 400;
+	font-size: 12px;
+	color: black;
+}
+.tableFixHead::-webkit-scrollbar {
+	width: 7px;
+	height: 7px;
+} 
+.tableFixHead::-webkit-scrollbar-track {
+	background:#eee; 
+	border-radius: 10px;
+} 
+.tableFixHead::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: royalblue;
+}
+.tableFixHeadKategori::-webkit-scrollbar {
+	width: 7px;
+	height: 7px;
+} 
+.tableFixHeadKategori::-webkit-scrollbar-track {
+	background:#eee; 
+	border-radius: 10px;
+} 
+.tableFixHeadKategori::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: royalblue;
+}
+
+
+.form-control{
+	border-radius: 10px;
+}
+label{
+	font-family               : 'Fredoka', sans-serif;
+	font-weight: normal;
+}
+.back{
+	font-family               : 'Fredoka', sans-serif;
+	font-size: 20px;
+}
+.bi-three-dots-vertical:hover{
+	background-color: skyblue;
+
+}
+
+
+.btn-add-berita{
+	font-family : 'Fredoka', sans-serif;
+	background-color: white;
+	width: 190px;
+	border-radius: 10px;
+}
+.btn-add-berita:hover{
+	background-color: skyblue;
+	width: 190x;
+	border-radius: 10px;
+}
+.add-kategori{
+	width: 156px;
+	border-radius: 10px;
+}
+.berita-image{
+	border-radius: 5px;
+}
+
+.btn-search{
+	border-radius: 8px;
+}
+.judul{
+	font-family               : 'Fredoka', sans-serif;
+	font-size: 30px;
+}
+.hasil-cari{
+	font-family               : 'Fredoka', sans-serif;
+}
+.btn-submit:hover{
+	background-color: green;
+}

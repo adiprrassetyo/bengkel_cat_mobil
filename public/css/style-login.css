@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');          /*Pacifico*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');             /*Rubik*/
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');  /*freedoka*/
+
+.login{
+	font-family: 'Rubik', sans-serif;
+	margin-top : 50px;
+}
+.logintxt{
+	font-family: 'Pacifico', cursive;
+}
+.loginform{
+	margin-top: 45px;
+}
+.usernamebox{
+	border-radius: 15px;
+}
+.passwordbox{
+	border-radius: 15px;
+}
+.loginbtn{
+	width           : 100%;
+	background-color: #1597E5;
+	border-radius   : 20px;
+	font-family               : 'Fredoka', sans-serif;
+}
+.logintxtbtn{
+	padding-top: 12px;
+}
+.alertlogin{
+	border-radius: 13px;
+} 
+.text-decoration-none{
+	font-family               : 'Fredoka', sans-serif;
+}
+.btn-forgot-pass{
+	background-color: transparent;
+	border: none;
+	color: blue;
+	font-family               : 'Fredoka', sans-serif;
+}

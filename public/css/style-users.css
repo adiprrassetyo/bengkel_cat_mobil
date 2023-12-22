@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');  /*freedoka*/
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');      /*Varela*/
+
+.dk{
+    font-family               : 'Fredoka', sans-serif;
+}
+.tableFixHead{ 
+    overflow: auto; 
+    height: 480px; 
+    min-height: 480px;
+}
+.tableFixHead thead th { 
+    position: sticky; 
+    top: 0; 
+    z-index: 1; 
+}
+.tableFixHead2{ 
+    overflow: auto; 
+ 
+}
+.tableFixHead2 thead th { 
+    position: sticky; 
+    top: 0; 
+    z-index: 1; 
+}
+table  { 
+    border-collapse: collapse; 
+    width: 100%; 
+}
+th     {
+    font-family               : 'Fredoka', sans-serif;
+    padding: 20px 15px;
+    text-align: left;
+    font-weight: 550;
+    font-size: 15px; 
+    background:  white; 
+}
+td{
+    border-bottom: solid 0.5px;
+    border-bottom-color: grey;
+    padding: 15px;
+    text-align: left;
+    vertical-align:middle;
+    font-weight: 400;
+    font-size: 12px;
+    color: black;
+}
+.tableFixHead::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+} 
+.tableFixHead::-webkit-scrollbar-track {
+ background:#eee; 
+ border-radius: 10px;
+} 
+.tableFixHead::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: royalblue;
+}
+
+
+.form-control{
+    border-radius: 10px;
+}
+label{
+    font-family               : 'Fredoka', sans-serif;
+    font-weight: normal;
+}
+.back{
+    font-family               : 'Fredoka', sans-serif;
+    font-size: 18px;
+}
+.bi-three-dots-vertical:hover{
+    background-color: skyblue;
+
+}
+#red-cross{
+    width: 15px;
+
+}
+
+.btn-add-user{
+    font-family : 'Fredoka', sans-serif;
+    background-color: white;
+    width: 190px;
+    border-radius: 10px;
+}
+.btn-add-user:hover{
+    background-color: skyblue;
+    width: 190px;
+    border-radius: 10px;
+}
+.modal-wrapper{
+    height: 470px;
+    overflow-x: auto;
+}
+.modal-wrapper::-webkit-scrollbar {
+    width: 7px;
+} 
+.modal-wrapper::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+} 
+.modal-wrapper::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+    background-color: darkgrey;
+}
+.imgprofil{
+    border-radius: 8px;
+}
+.img-preview{
+    margin: 0 auto;
+    border-radius: 8px;
+}
+.btn-submit{
+    border-radius: 8px;
+}
+.btn-submit:hover{
+    background-color: green;
+}
+.btn-delete{
+    width: 120px;
+    border-radius: 8px;
+}
+.confirm-delete{
+    width: 70px;
+}
+.data-user{
+ font-family : 'Fredoka', sans-serif;
+}
+
+.foto-profil{
+    border-radius: 15px; 
+}
+.txt1{
+    font-family : 'Fredoka', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+/*.btn-search{
+    height: 30px;
+}*/
+.user-notfound{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 30px;
+}
+.btn-search{
+    border-radius: 10px;
+    font-family               : 'Fredoka', sans-serif;
+}

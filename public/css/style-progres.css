@@ -1,0 +1,22 @@
+ @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');  /*freedoka*/
+ @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');      /*Varela*/
+
+ .data-progres{
+ 	font-family: 'Varela Round', sans-serif;
+ }
+ .form-label{
+  font-family               : 'Fredoka', sans-serif;
+}
+.back{
+  font-size: 20px;
+  font-family               : 'Fredoka', sans-serif;
+}
+.progres-img{
+  border-radius: 10px;
+}
+.red-cross{
+  width: 18px;
+}
+.confirm-delete{
+  width: 70px;
+}
