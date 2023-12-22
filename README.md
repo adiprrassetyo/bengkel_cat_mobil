@@ -9,17 +9,17 @@ Dibangun menggunakan
 
 # Sistem Informasi Bengkel Cat
 
-![screencapture-si-bengkel-test-2023-12-20-18_33_08](https://imgur.com/1aYOQHg)
+![1aYOQHg - Imgur](https://github.com/adiprrassetyo/bengkel_cat_mobil/assets/68819530/62f1aed0-1e6a-4107-8e26-bf6a09b5b9fe)
 
-![screencapture-si-bengkel-test-manage-users-2023-12-20-18_35_17](https://imgur.com/8IBXuR4)
+![8IBXuR4 - Imgur](https://github.com/adiprrassetyo/bengkel_cat_mobil/assets/68819530/15b6f1d4-77c3-4a0d-9176-9d28af93e405)
 
-![screencapture-si-bengkel-test-manage-menu-2023-12-20-18_34_59 (1)](https://imgur.com/662HnAN)
+![662HnAN - Imgur](https://github.com/adiprrassetyo/bengkel_cat_mobil/assets/68819530/8e0614b4-704d-4cac-8a9d-252abca76019)
 
-![screencapture-si-bengkel-test-manage-users-2023-12-20-18_35_28](https://imgur.com/xB6PSxU)
+![xB6PSxU - Imgur](https://github.com/adiprrassetyo/bengkel_cat_mobil/assets/68819530/5bdbb3d0-6d73-42dc-8996-84a72e703735)
 
-![screencapture-si-bengkel-test-manage-berita-add-2023-12-20-18_36_31](https://imgur.com/L3v01ur)
+![L3v01ur - Imgur](https://github.com/adiprrassetyo/bengkel_cat_mobil/assets/68819530/38f3a330-a2fa-47c2-9c61-989d7aadeacd)
 
-![screencapture-si-bengkel-test-show-myVehicle-repairs-1-OxttPglVM7-2023-12-20-18_41_04](https://imgur.com/nDI2gQr)
+![nDI2gQr - Imgur](https://github.com/adiprrassetyo/bengkel_cat_mobil/assets/68819530/e6c78123-17bc-4d23-b45d-d3e702a2c37d)
 
 ## Default Account for testing
 
