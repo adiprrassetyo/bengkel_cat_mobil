@@ -92,18 +92,5 @@ class DatabaseSeeder extends Seeder
             'harga' => '600000',
         ]);
 
-
-        // User::factory(12)->create();
-
-        // Kendaraan::factory(15)->create();
-
-        // Perbaikan::factory(15)->create();
-
-        // Progres::factory(15)->create();
-
-        // Berita::factory(15)->create();
-
-        // Layanan::factory(5)->create();
-
     }
 }

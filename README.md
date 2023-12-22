@@ -35,7 +35,7 @@ Dibangun menggunakan
 
 **Owner Default Account**
 
--   username : Adam01
+-   username : Adam1
 -   Password : owner123
 
 ## Deployment
@@ -47,7 +47,7 @@ To deploy this project
 ```bash
   git clone https://github.com/adiprrassetyo/bengkel_cat_mobil
 
-  cd bengkel-cat-berbasis
+  cd bengkel_cat_mobil
 
   composer install
 ```
