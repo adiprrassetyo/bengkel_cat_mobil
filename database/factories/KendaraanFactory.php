@@ -19,7 +19,7 @@ class KendaraanFactory extends Factory
     {
         return [
             'no_plat' => Str::random(10),
-            'user_id' => mt_rand(1, 17),
+            'user_id' => mt_rand(1, 3),
             'merek' => $this->faker->randomElement(['Avanza', 'Kijang','Honda','Suzuki']),
             'model' => $this->faker->randomElement(['Pick-up', 'SUV','EV','MPV']),
             'warna' => $this->faker->colorName(),

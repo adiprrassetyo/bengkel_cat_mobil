@@ -17,7 +17,7 @@ class BeritaFactory extends Factory
     public function definition()
     {
         return [
-            'user_id' => mt_rand(1, 15),
+            'user_id' => mt_rand(1, 3),
             'kategori_id' => mt_rand(1, 2),
             'slug' => $this->faker->word(),
             'excerpt' => $this->faker->sentence(20),
