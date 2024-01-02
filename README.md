@@ -1,4 +1,4 @@
-# Sistem Informasi Bengkel Cat
+# Sistem Informasi Bengkel Cat Mobil
 
 Project ini merupakan tugas akhir kelompok Pemrograman Lanjutan
 
@@ -7,7 +7,7 @@ Dibangun menggunakan
 -   Laravel 9
 -   Bootsrap 5
 
-# Sistem Informasi Bengkel Cat
+# Sistem Informasi Bengkel Cat Mobil
 
 ![1aYOQHg - Imgur](https://github.com/adiprrassetyo/bengkel_cat_mobil/assets/68819530/62f1aed0-1e6a-4107-8e26-bf6a09b5b9fe)
 
